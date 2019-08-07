@@ -1,6 +1,7 @@
 import time
 from datetime import date,datetime
-
+#Add your date in the variable b
+#Output will be in the format ('11 Years', '0 Months', '9 Days')
 def convertSeconds(seconds):
     y_tmp = round(seconds/60/60/24/365.25,3)
     y=round(y_tmp)
