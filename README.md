@@ -1,3 +1,3 @@
-# Python 3 scripts
+# Code Snippets for DevOps and SRE work
 
-Casual scripts for everyday use of a DevOps/SRE written in Python 3.
+Casual scripts for everyday use
